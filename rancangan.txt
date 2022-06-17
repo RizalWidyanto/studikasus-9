@@ -1,0 +1,13 @@
+ inputouput:
+- memasukkan jumlah data
+- memasukkan jenis buku
+- memasukkan judul buku 
+- memasukkan penulis buku
+
+
+proses:
+- prosesnya hasil dari kata input yang sudah dikonversi 
+
+
+
+
